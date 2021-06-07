@@ -1,0 +1,7 @@
+C:\Users\pst\source\repos\CinemaApp\CinemaApp\bin\Debug\CinemaApp.exe.config
+C:\Users\pst\source\repos\CinemaApp\CinemaApp\bin\Debug\CinemaApp.exe
+C:\Users\pst\source\repos\CinemaApp\CinemaApp\bin\Debug\CinemaApp.pdb
+C:\Users\pst\source\repos\CinemaApp\CinemaApp\obj\Debug\CinemaApp.csprojAssemblyReference.cache
+C:\Users\pst\source\repos\CinemaApp\CinemaApp\obj\Debug\CinemaApp.csproj.CoreCompileInputs.cache
+C:\Users\pst\source\repos\CinemaApp\CinemaApp\obj\Debug\CinemaApp.exe
+C:\Users\pst\source\repos\CinemaApp\CinemaApp\obj\Debug\CinemaApp.pdb
